@@ -1,6 +1,5 @@
 # \# Clavyy Design System
 
-#
 
 # > \*\*Version 1.0 — Single-file implementation\*\*  
 
